@@ -13,6 +13,7 @@ public class Element {
             }
         }
 
+
         for(int j = 0; j < k; j++){
             nums[j] = expectedNums[j];
         }
